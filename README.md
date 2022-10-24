@@ -7,7 +7,7 @@ Forensics:
 | ----------- | ----------- | ---- |
 | Wireshark   | Capture packets sent by devices and analyze pcap files | [Wireshark](https://www.wireshark.org/download.html) |
 | pkcrack     | Crack zip passwords or run known plaintext attacks | [pkcrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) |
-| volatility  | Analyze memory dumps | [volatility] (https://github.com/volatilityfoundation/volatility) |
+| volatility  | Analyze memory dumps | [volatility](https://github.com/volatilityfoundation/volatility) |
 | rockyou.txt | List of common passwords helpful in many categories | [rockyou.txt](https://www.kaggle.com/datasets/wjburns/common-password-list-rockyoutxt) |
 | Aperi Solve | Image forensics tool that runs many stegonography tools | [Aperi Solve](https://www.aperisolve.fr/) |
 | Audacity    | Analyze, visualize, and modify audio files | [Audacity](https://www.audacityteam.org/download/) |
