@@ -1,7 +1,7 @@
 # CTF-Checklist
 A composite list of various vulnerabilities and tools to look for and use while exploiting common CTF challenges
 
-Forensics:
+## Forensics
 
 | Tool        | Description | Link |
 | ----------- | ----------- | ---- |
@@ -14,7 +14,7 @@ Forensics:
 | SleuthKit   | Analyze disk drives and dumps | [SleuthKit](http://www.sleuthkit.org/sleuthkit/download.php) |
 | John The Ripper | General purpose password cracker | [John The Ripper](http://www.openwall.com/john/) |
 
-Web:
+## Web
 | Tool        | Description | Link |
 | ----------- | ----------- | ---- |
 | RequestBin  | Capture web requests | [RequestBin](https://requestbin.com/r) |
@@ -24,20 +24,20 @@ Web:
 | SQL Injection | SQL Injection authentication bypass cheatsheet | [sql cheatsheet](https://pentestlab.blog/2012/12/24/sql-injection-authentication-bypass-cheat-sheet/) |
 | SUID Find   | Find SUID binaries on a linux system using ``find / -perm -u=s -type f 2>/dev/null`` | |
 
-Binary Exploitation:
+## Binary Exploitation
 | Tool        | Description | Link |
 | ----------- | ----------- | ---- |
 | ir0nstone   | PWN tutorials containing many resources/scripts for solving pwn challenges | [ir0nstone](https://ir0nstone.gitbook.io/) |
 | pwntools    | Python library for prototyping and writing exploits | [pwntools](https://docs.pwntools.com/en/stable/) |
 | ROPGadget   | Tool for find ROP tools and crafting ROP chains | [ROPGadget](https://github.com/JonathanSalwan/ROPgadget) |
 
-Reverse Engineering:
+## Reverse Engineering
 | Tool        | Description | Link |
 | ----------- | ----------- | ---- |
 | Ghidra      | Reverse Engineering toolkit for decompiling binaries into C code for static analysis | [Ghidra](https://ghidra-sre.org/) |
 | Uncompyle   | Decompile Python binaries | [Uncompyle](https://github.com/gstarnberger/uncompyle) |
 
-Cryptography:
+## Cryptography
 | Tool        | Description | Link |
 | ----------- | ----------- | ---- |
 | alpertron   | Factor very large integers | [alpertron](https://www.alpertron.com.ar/ECM.HTM) |
