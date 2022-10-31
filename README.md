@@ -48,3 +48,4 @@ A composite list of various vulnerabilities and tools to look for and use while 
 | z3          | Theorem prover | [z3](https://github.com/Z3Prover/z3) |
 | OR-Tools    | Similar to z3 but supposedly faster | [OR-Tools](https://developers.google.com/optimization/introduction/overview) |
 | RsaCtfTool  | Python script for automatically running known RSA attacks given various inputs | [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) |
+| sage        | Fast math good. Fast math as python library good for quick scripting solutions | [sage](https://doc.sagemath.org/html/en/index.html) |
