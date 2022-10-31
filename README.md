@@ -31,7 +31,7 @@ A composite list of various vulnerabilities and tools to look for and use while 
 | pwntools    | Python library for prototyping and writing exploits | [pwntools](https://docs.pwntools.com/en/stable/) |
 | ROPGadget   | Tool for find ROP tools and crafting ROP chains | [ROPGadget](https://github.com/JonathanSalwan/ROPgadget) |
 | shellstorm  | Database of shellcode in both assembly and byte format | [shellstorm](https://shell-storm.org/shellcode/index.html) |
-| Wiremask Buffer Overflow | Buffer overflow pattern generator that when combined with gdb can determine the offset to EIP/RIP when no canary is present | [Wiremask] (https://wiremask.eu/tools/buffer-overflow-pattern-generator/) |
+| Wiremask Buffer Overflow | Buffer overflow pattern generator that when combined with gdb can determine the offset to EIP/RIP when no canary is present | [Wiremask](https://wiremask.eu/tools/buffer-overflow-pattern-generator/) |
 
 ## Reverse Engineering
 | Tool        | Description | Link |
