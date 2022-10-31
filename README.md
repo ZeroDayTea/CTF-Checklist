@@ -30,6 +30,7 @@ A composite list of various vulnerabilities and tools to look for and use while 
 | ir0nstone   | PWN tutorials containing many resources/scripts for solving pwn challenges | [ir0nstone](https://ir0nstone.gitbook.io/) |
 | pwntools    | Python library for prototyping and writing exploits | [pwntools](https://docs.pwntools.com/en/stable/) |
 | ROPGadget   | Tool for find ROP tools and crafting ROP chains | [ROPGadget](https://github.com/JonathanSalwan/ROPgadget) |
+| shellstorm  | Database of shellcode in both assembly and byte format | [shellstorm](https://shell-storm.org/shellcode/index.html) |
 
 ## Reverse Engineering
 | Tool        | Description | Link |
