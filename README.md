@@ -38,6 +38,7 @@ A composite list of various vulnerabilities and tools to look for and use while 
 | ----------- | ----------- | ---- |
 | Ghidra      | Reverse Engineering toolkit for decompiling binaries into C code for static analysis | [Ghidra](https://ghidra-sre.org/) |
 | Uncompyle   | Decompile Python binaries | [Uncompyle](https://github.com/gstarnberger/uncompyle) |
+| angr        | Binary analysis platform for Python with static/dynamic analysis support and symbolic execution | [angr](https://angr.io/) |
 
 ## Cryptography
 | Tool        | Description | Link |
