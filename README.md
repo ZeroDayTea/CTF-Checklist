@@ -15,6 +15,7 @@ A composite list of various vulnerabilities and tools to look for and use while 
 | John The Ripper | General purpose password cracker | [John The Ripper](http://www.openwall.com/john/) |
 | dsniff | Sniff passwords from packet capture files | [dsniff](https://www.monkey.org/~dugsong/dsniff/) |
 | foremost | Extract files from other files by header | ``sudo apt install foremost`` |
+| stegsnow | white space steganography | ``sudo apt install steganography`` | 
 
 ## Web
 | Tool        | Description | Link |
