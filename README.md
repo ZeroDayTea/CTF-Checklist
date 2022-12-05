@@ -25,7 +25,8 @@ A composite list of various vulnerabilities and tools to look for and use while 
 | BurpSuite   | Intercept http requests, analyze them, and modify them before sending | [BurpSuite](https://portswigger.net/burp/communitydownload) |
 | sqlmap      | Automate sending sql injection payloads and detect sql injections on webpages | [sqlmap](https://github.com/sqlmapproject/sqlmap) |
 | SQL Injection | SQL Injection authentication bypass cheatsheet | [sql cheatsheet](https://pentestlab.blog/2012/12/24/sql-injection-authentication-bypass-cheat-sheet/) |
-| SUID Find   | Find SUID binaries on a linux system using ``find / -perm -u=s -type f 2>/dev/null`` | |
+| SUID Find   | Find SUID binaries on a linux system using ``find / -perm -u=s -type f 2>/dev/null`` |
+| root binary find | Find binaries that run with root privileges | ``sudo -l`` |
 
 ## Binary Exploitation
 | Tool        | Description | Link |
