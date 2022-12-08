@@ -46,6 +46,7 @@ A composite list of various vulnerabilities and tools to look for and use while 
 | Uncompyle   | Decompile Python binaries | [Uncompyle](https://github.com/gstarnberger/uncompyle) |
 | angr        | Binary analysis platform for Python with static/dynamic analysis support and symbolic execution | [angr](https://angr.io/) |
 | jdgui       | Java decompiler for .class files | [jdgui](http://jd.benow.ca/) |
+| IDA Freeware| Binary code analysis and reverse engineering | [IDA Freeware](https://hex-rays.com/ida-free/#download) |
 
 ## Cryptography
 | Tool        | Description | Link |
