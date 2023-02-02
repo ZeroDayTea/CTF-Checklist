@@ -66,3 +66,8 @@ A composite list of various vulnerabilities and tools to look for and use while 
 | Tool        | Description | Link |
 | ----------- | ----------- | ---- |
 | ARPSyndicate | List of helpful OSINT resources | [ARPSyndicate](https://github.com/ARPSyndicate/awesome-intelligence) |
+
+## Papers
+| Category    | Title       | Link |
+| ----------- | ----------- | ---- |
+| crypto      | Solving problems with the LLL algorithm | [LLL](https://www.math.fsu.edu/~hoeij/papers/LLL.pdf) |
