@@ -68,6 +68,7 @@ A composite list of various vulnerabilities and tools to look for and use while 
 | Tool        | Description | Link |
 | ----------- | ----------- | ---- |
 | ARPSyndicate | List of helpful OSINT resources | [ARPSyndicate](https://github.com/ARPSyndicate/awesome-intelligence) |
+| Epieos      | OSINT Tool search engine that performs a variety of searches | [Epieos](https://epieos.com/) |
 
 ## Papers
 | Category    | Title       | Link |
