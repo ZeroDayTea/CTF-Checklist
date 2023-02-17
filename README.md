@@ -39,6 +39,7 @@ A composite list of various vulnerabilities and tools to look for and use while 
 | Wiremask Buffer Overflow | Buffer overflow pattern generator that when combined with gdb can determine the offset to EIP/RIP when no canary is present | [Wiremask](https://wiremask.eu/tools/buffer-overflow-pattern-generator/) |
 | one_gadget  | Find ROP gadgets specifically for spawning a shell i.e ROPing to execve('/bin/sh/, NULL, NULL) | [one_gadget](https://github.com/david942j/one_gadget) |
 | checksec    | check binary security properties of the executable revealing which attack vectors will be possible | ``sudo apt-get install checksec`` |
+| Guide to Reading Assembly | The faker's guide to reading (x86) assembly language | [Assembly Guide](https://www.timdbg.com/posts/fakers-guide-to-assembly/) |
 
 ## Reverse Engineering
 | Tool        | Description | Link |
