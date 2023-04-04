@@ -28,6 +28,7 @@ A composite list of various vulnerabilities and tools to look for and use while 
 | SUID Find   | Find SUID binaries on a linux system using ``find / -perm -u=s -type f 2>/dev/null`` |
 | root binary find | Find binaries that run with root privileges | ``sudo -l`` |
 | Dirbuster   | Find hidden directory and file paths on web servers | [Dirbuster](https://www.kali.org/tools/dirbuster/) |
+| Postman     | General purpose HTTP request debugger and generator | [Postman](https://www.postman.com/downloads/) |
 
 ## Binary Exploitation
 | Tool        | Description | Link |
